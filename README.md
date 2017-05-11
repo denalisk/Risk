@@ -35,7 +35,7 @@
 * CSS with bootstrap
 * JavaScript with jQuery
 
-[Rules for Risk](http://www.ultraboardgames.com/risk/game-rules.php)
+[Rules for Risk](http://www.ultraboardgames.com/risk/game-rules.php) //
 [gh-pages link for this](http://denalisk.github.io/Risk/index.html)
 
 ##### Copyright (c) 2017 Derek Villars, Marc Larkin, Melvin Gruschow, Nick Mead, and Sam Kirsch.
