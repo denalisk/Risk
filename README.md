@@ -33,7 +33,7 @@
 
 * HTML
 * CSS with bootstrap
-* javascript with jQuery
+* JavaScript with jQuery
 
 [Rules for Risk](http://www.ultraboardgames.com/risk/game-rules.php)
 [gh-pages link for this](http://denalisk.github.io/Risk/index.html)
