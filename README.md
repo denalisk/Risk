@@ -1,8 +1,8 @@
 # "An Educational Risk Clone" An Exercise in Object-Oriented Javascript
 
-#### _Piece a' Pizza_, 01.27.2017
+#### _Risk_, 01.27.2017
 
-### By _Derek Villars_ _Marc Larkin_ _Melvin Gruschow_ _Nick Mead_ _Sam Kirsch_
+### By _Derek Villars_, _Marc Larkin_, _Melvin Gruschow_, _Nick Mead_, and _Sam Kirsch_
 
 ## Description
 
@@ -36,7 +36,7 @@
 * javascript with jQuery
 
 [Rules for Risk](http://www.ultraboardgames.com/risk/game-rules.php)
-[gh-pages link for this](NMead93.github.io/Risk/index.html)
+[gh-pages link for this](http://denalisk.github.io/Risk/index.html)
 
 ##### Copyright (c) 2017 Derek Villars, Marc Larkin, Melvin Gruschow, Nick Mead, and Sam Kirsch.
 
